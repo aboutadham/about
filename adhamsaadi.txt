@@ -1,0 +1,16 @@
+</script> 
+<divid="console"><span id="a">adham@saadi</span>:<span id="b">~</span><span id="c">$</span> cat adhamsaadi.txt<br><br>
+<br>Hello there!
+My name is Adham Al-Saadi.
+<p>I do some stuff with Computers and Cyber Security.  
+<br><br>
+<br>This is my email:
+<a>adham-95@windowslive.com</a>
+<br>And here's my GitHub account:
+<a>github.com/adhamsaadi</a>
+<br><br>There is no place like 127.0.0.1</p> 
+<br><br>
+<br>Have a nice day!
+<br><p>
+</div> 
+<script type="text/javascript">
